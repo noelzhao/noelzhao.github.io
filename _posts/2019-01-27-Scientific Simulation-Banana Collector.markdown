@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scientific Simulation\: Banana Collector
+title: Scientific Simulation - Banana Collector
 date: 2019-01-27 -08:00
 ---
 
