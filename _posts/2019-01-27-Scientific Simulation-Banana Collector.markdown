@@ -6,11 +6,7 @@ date: 2019-01-27 -08:00
 
 *Unity, TensorFlow, Python, C#*
 
-### Demo Link:
 
-### * [Project Demo Video](https://www.zhaozhao.name)
-
-### ![A test image](YelpDemo.png)
 
 ---
 
