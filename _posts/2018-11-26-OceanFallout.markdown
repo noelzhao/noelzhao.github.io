@@ -4,7 +4,7 @@ title: Mobile Game - OceanFallout
 date: 2018-11-26 -08:00
 ---
 
-*Developed with Unity and C#*
+*Unity, C#*
 
 [OceanFallout Trailer Video Link](https://www.youtube.com/watch?v=a9DGwLcpWWQ)
 
