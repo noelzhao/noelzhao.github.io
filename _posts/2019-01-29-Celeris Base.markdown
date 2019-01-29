@@ -10,7 +10,7 @@ date: 2019-01-29 -08:00
 
 [UI Animation Feature Testing Video Link](https://youtu.be/0Jq7ZihbI8E)
 
-[![Celeris Base UI Video](http://img.youtube.com/vi/0Jq7ZihbI8E/0.jpg)](https://youtu.be/0Jq7ZihbI8E)
+[![Celeris Base UI Video](http://img.youtube.com/vi/0Jq7ZihbI8E/1.jpg)](https://youtu.be/0Jq7ZihbI8E)
 
 ### Brief Summary:  
   
