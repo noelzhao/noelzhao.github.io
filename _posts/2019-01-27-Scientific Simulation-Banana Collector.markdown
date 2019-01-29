@@ -7,7 +7,6 @@ date: 2019-01-27 -08:00
 *Unity, TensorFlow, Python, C#*
 
 
-
 ---
 
 ### Brief Summary:  

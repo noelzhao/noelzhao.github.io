@@ -7,6 +7,7 @@ date: 2018-11-26 -08:00
 *Unity, C#*
 
 [OceanFallout Trailer Video Link](https://www.youtube.com/watch?v=a9DGwLcpWWQ)
+[OceanFallout Mobile Gameplay Video Link](https://youtu.be/nDeDRC_c5hk)
 
 [![OceanFallout Trailer Video](http://img.youtube.com/vi/a9DGwLcpWWQ/0.jpg)](https://www.youtube.com/watch?v=a9DGwLcpWWQ)
 
