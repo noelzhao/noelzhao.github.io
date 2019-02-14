@@ -25,6 +25,3 @@ date: 2019-01-29 -08:00
 * Refactored code with **object-oriented** design and **MVC** pattern. Reduced scripting files size by 50%.
 
 * The new version provided Windows and Oculus compatibility and professional software visualization quality to hundreds of researchers and engineering firm users in 50+ countries.
-
-
-
